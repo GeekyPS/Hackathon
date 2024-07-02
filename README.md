@@ -12,11 +12,6 @@
 </p>
 
 
-<p  align="center">
-<a  href="https://flutter.dev"  target="_blank"><img  height="39"  src="[https://user-images.githubusercontent.com/37345795/205487266-9604e883-3bd3-45a5-b172-f4617d911ee3.png](https://github.com/GeekyPS/Tagify/assets/97830682/dd6d8a81-922a-4a5f-841c-715ce24739ff)"  alt="Flutter Logo"></a> <a>&nbsp;&nbsp;&nbsp;</a>
-
-</p>
-
 This repository contains a machine learning model designed to predict car parts based on various input features. The model leverages advanced algorithms to provide accurate predictions, aiding in inventory management, maintenance, and repair services.
 ## Setting up the project in your local environment💻
 
